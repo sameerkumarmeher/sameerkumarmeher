@@ -1,95 +1,59 @@
 <div align="center">
 
-# Hi 👋, I'm Sameer Kumar Meher
+# 👋 Welcome to Sameer Kumar Meher's GitHub Profile
 
-### 📊 Data Analyst | Business Intelligence | SQL | Python | Power BI | Tableau
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Sameer%20Kumar%20Meher&fontColor=ffffff&fontSize=40&fontAlignY=40&animation=twinkling"/>
+
+<br>
 
 <a href="https://github.com/sameerkumarmeher">
-  <img src="https://img.shields.io/github/followers/sameerkumarmeher?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/followers/sameerkumarmeher?style=for-the-badge&logo=github&label=Followers"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
-<img src="https://img.shields.io/badge/LinkedIn-Sameer%20Kumar%20Meher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://sameer-meher-m110g3t.gamma.site/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<br><br>
+<a href="https://www.linkedin.com/in/sameer-kumar-meher-8a2b5517b/">
+<img src="https://img.shields.io/badge/LinkedIn-Sameer%20Meher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=sameerkumarmeher&style=for-the-badge&color=blue&label=Profile+Views"/>
+<a href="mailto:sameermeher005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sameerkumarmeher&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Sameer%20Kumar%20Meher&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-</p>
-
----
-
 # 👨‍💻 About Me
 
-🎯 Passionate Data Analyst with experience in analyzing, cleaning, and visualizing data to drive business decisions.
+Hi! I'm **Sameer Kumar Meher**, a passionate **Data Analyst** with experience in transforming raw data into meaningful business insights.
 
-💼 Skilled in developing interactive dashboards, writing optimized SQL queries, and automating reports using Python.
-
-🚀 Interested in Business Intelligence, Data Visualization, Machine Learning, and Data Engineering.
-
----
-
-## 🔭 Currently Working On
-
-- 📊 Sales Analytics Dashboard
-- 📈 HR Analytics Dashboard
-- 🛒 E-Commerce Data Analysis
-- 🐍 Python Automation Projects
-- 📉 KPI Dashboard using Power BI
+- 📊 Data Analytics & Business Intelligence
+- 🐍 Python for Data Analysis & Automation
+- 🗄 SQL Query Optimization
+- 📈 Dashboard Development using Power BI & Tableau
+- 📉 Data Cleaning & Exploratory Data Analysis (EDA)
+- 🚀 Open to Data Analyst opportunities
 
 ---
 
-## 🌱 Currently Learning
+# 🛠️ Tech Stack
 
-- Machine Learning
-- Advanced SQL
-- Python for Data Analytics
-- Microsoft Fabric
-- Azure Data Services
+### Programming & Database
 
----
-
-## 💬 Ask Me About
-
-- SQL
-- Excel
-- Power BI
-- Tableau
-- Python
-- Data Cleaning
-- Data Visualization
-- Business Analytics
-
----
-
-## ⚡ Fun Fact
-
-I love solving business problems by combining integration expertise with data analytics.
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
-
 </p>
 
 ### Analytics Tools
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
@@ -99,7 +63,7 @@ I love solving business problems by combining integration expertise with data an
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
@@ -109,33 +73,24 @@ I love solving business problems by combining integration expertise with data an
 
 # 📂 Featured Projects
 
-📊 Sales Dashboard (Power BI)
-
-📈 HR Analytics Dashboard
-
-🛒 E-Commerce Sales Analysis
-
-📉 Customer Churn Analysis
-
-🐍 Python Data Cleaning
-
-🗄 SQL Practice (100+ Queries)
-
-📊 Netflix Data Analysis
-
-📈 Tableau Dashboard
+| Project | Description |
+|---------|-------------|
+| 📊 Sales Dashboard | Power BI Dashboard |
+| 📈 HR Analytics Dashboard | Tableau Dashboard |
+| 🛒 E-Commerce Sales Analysis | SQL + Python |
+| 📉 Customer Churn Analysis | Python & Machine Learning |
+| 🗄 SQL Practice | 100+ SQL Interview Queries |
+| 📊 Netflix Data Analysis | Python + Tableau |
 
 ---
 
-# 📈 GitHub Stats
+# 🌱 Currently Learning
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sameerkumarmeher&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerkumarmeher&layout=compact&theme=tokyonight"/>
-
-</p>
+- Advanced SQL
+- Machine Learning
+- Microsoft Fabric
+- Azure Data Services
+- Data Engineering Fundamentals
 
 ---
 
@@ -159,34 +114,58 @@ I love solving business problems by combining integration expertise with data an
 
 ---
 
-# 🏆 GitHub Trophies
+---
+
+## 💡 Quote of the Day
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### Education is the most powerful weapon which you can use to change the world.
+
+**— Nelson Mandela**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sameerkumarmeher&theme=tokyonight&row=1&column=7"/>
+<a href="https://sameer-meher-m110g3t.gamma.site/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-success?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sameer-kumar-meher-8a2b5517b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sameermeher005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/sameerkumarmeher">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
 ---
 
-# 🤝 Let's Connect
+<div align="center">
 
-<p align="center">
+## ⭐ Thanks for visiting my profile!
 
-<a href="https://www.linkedin.com/in/linkedin.com/in/sameer-kumar-meher-8a2b5517b">
-<img src="https://img.shields.io/badge/LinkedIn-Sameer%20Kumar%20Meher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 📊 *"Turning Data Into Actionable Insights"*
 
-<a href="mailto:sameermeher005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Sameer%20Kumar%20Meher-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
-<a href="https://github.com/sameerkumarmeher">
-<img src="https://img.shields.io/badge/GitHub-sameerkumarmeher-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://sameer-meher-m110g3t.gamma.site/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
+</div>
