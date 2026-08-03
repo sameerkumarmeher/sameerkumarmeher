@@ -43,6 +43,13 @@ Hi! I'm **Sameer Kumar Meher**, a passionate **Data Analyst** with experience in
 - 🚀 Open to Data Analyst opportunities
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 # 🛠️ Tech Stack
 
