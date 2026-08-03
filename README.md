@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Welcome to Sameer Kumar Meher's GitHub Profile
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Sameer%20Kumar%20Meher&fontColor=ffffff&fontSize=40&fontAlignY=40&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:2563EB,50:06B6D4,100:14B8A6&text=Welcome%20to%20Sameer%20Kumar%20Meher's%20GitHub&fontColor=ffffff&fontSize=36&fontAlignY=40&animation=twinkling"/>
+
+</p>
 
 <br>
 
