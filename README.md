@@ -49,7 +49,7 @@ Hi! I'm **Sameer Kumar Meher**, a passionate **Data Analyst** with experience in
 ### Programming & Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,idea,postman,eclipse&theme=dark"/>
 </p>
 
 ### Analytics Tools
