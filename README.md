@@ -132,7 +132,7 @@ Hi! I'm **Sameer Kumar Meher**, a passionate **Data Analyst** with experience in
 <tr>
 <td align="center">
 
-### Education is the most powerful weapon which you can use to change the world.
+### Education is the most powerful weapon which can change the world.
 
 **— Nelson Mandela**
 
