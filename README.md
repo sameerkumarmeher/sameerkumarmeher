@@ -6,7 +6,6 @@
 
 </p>
 
-<br>
 
 <a href="https://github.com/sameerkumarmeher">
 <img src="https://img.shields.io/github/followers/sameerkumarmeher?style=for-the-badge&logo=github&label=Followers"/>
